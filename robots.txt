@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://koxufuji.github.io/sitemap/sitemap_index.koxufuji
+Sitemap: https://koxufuji.github.io/TIq/sitemap_index.koxufuji
+Sitemap: https://koxufuji.github.io/VnK/sitemap_index.koxufuji
+Sitemap: https://koxufuji.github.io/DLZ/sitemap_index.koxufuji
+Sitemap: https://koxufuji.github.io/hDm/sitemap_index.koxufuji
+Sitemap: https://koxufuji.github.io/Klp/sitemap_index.koxufuji
+Sitemap: https://koxufuji.github.io/XFx/sitemap_index.koxufuji
+Sitemap: https://koxufuji.github.io/UOP/sitemap_index.koxufuji
+Sitemap: https://koxufuji.github.io/FPA/sitemap_index.koxufuji
+Sitemap: https://koxufuji.github.io/Kfr/sitemap_index.koxufuji
+Sitemap: https://koxufuji.github.io/ELj/sitemap_index.koxufuji
+Sitemap: https://koxufuji.github.io/GEo/sitemap_index.koxufuji
+Sitemap: https://koxufuji.github.io/kYa/sitemap_index.koxufuji
+Sitemap: https://koxufuji.github.io/HMa/sitemap_index.koxufuji
+Sitemap: https://koxufuji.github.io/xSv/sitemap_index.koxufuji
+Sitemap: https://koxufuji.github.io/tSb/sitemap_index.koxufuji
+Sitemap: https://koxufuji.github.io/GLh/sitemap_index.koxufuji
+Sitemap: https://koxufuji.github.io/ZkI/sitemap_index.koxufuji
+Sitemap: https://koxufuji.github.io/dQM/sitemap_index.koxufuji
+Sitemap: https://koxufuji.github.io/brN/sitemap_index.koxufuji
+Sitemap: https://koxufuji.github.io/QrV/sitemap_index.koxufuji
